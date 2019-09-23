@@ -11,5 +11,9 @@
   ],
   "require": {
     "ramsey/uuid": "3.8.*"
+  },
+  "extra": {
+    "installer-type": "my-plugin",
+    "installer-name": "lib2"
   }
 }
